@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Gerenciador de dados em camadas.",
     "keywords": ["data", "manager", "layers"],
-    "homepage": "https://github.com/andersondrosa/purpose-framework",
+    "homepage": "https://github.com/andersondrosa/layerdata",
     "license": "MIT",
     "authors": [
         {
