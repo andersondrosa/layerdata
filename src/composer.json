@@ -1,0 +1,7 @@
+{
+    "name": "andersondrosa/layerdata",
+    "description": "Gerenciador de dados em camadas.",
+    "keywords": ["data", "manager"],
+    "license": "MIT",
+    "type": "project"
+}
