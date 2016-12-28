@@ -1,7 +1,23 @@
 {
     "name": "andersondrosa/layerdata",
+    "type": "library",
     "description": "Gerenciador de dados em camadas.",
-    "keywords": ["data", "manager"],
+    "keywords": ["data", "manager", "layers"],
+    "homepage": "https://github.com/andersondrosa/purpose-framework",
     "license": "MIT",
-    "type": "project"
+    "authors": [
+        {
+            "name": "Anderson D. Rosa",
+            "email": "andersondrosa@outlook.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LayerData\\": "src/"
+        }
+    }
 }
